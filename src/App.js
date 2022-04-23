@@ -47,11 +47,11 @@ function App() {
       <section className="timer">
         <div>
           <span className="mdi mdi-calendar-clock timer-icon"></span>
-          <h2>HEx's Countdown Timer</h2>
+          <h2>HEx is coming. And we are excited! </h2>
           <p>
             The Journey of a thousand miles begins with just one step, We have
             taken that step already <br /> and gently we are threading the final
-            destination! be an HExer today by counting down with us...
+            destination! be an HExer today and count down with us...
           </p>
         </div>
         <div>
